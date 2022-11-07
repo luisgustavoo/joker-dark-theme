@@ -1,0 +1,21 @@
+{
+  "name": "joker-dark-theme",
+  "displayName": "Joker Dark Theme",
+  "description": "Tema inspirado no Coringa",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Joker Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Joker Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
