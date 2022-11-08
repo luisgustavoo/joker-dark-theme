@@ -1,12 +1,14 @@
 {
   "name": "joker-dark-theme",
+  "publisher": "luisgustavo",
   "displayName": "Joker Dark Theme",
   "description": "Tema inspirado no Coringa",
   "version": "0.0.1",
-  "icon": "https://i.pinimg.com/564x/ad/89/75/ad8975af8cd031adad21e02ee328d806.jpg",
+  "icon": "images/coringa.jpg",
   "repository": {
-    "directory": "https://github.com/luisgustavoo/joker-dark-theme"
+    "url": "https://github.com/luisgustavoo/joker-dark-theme"
   },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
   },
