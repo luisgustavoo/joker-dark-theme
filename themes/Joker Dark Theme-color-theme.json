@@ -14,7 +14,13 @@
 		"titleBar.activeBackground": "#000000",
 		"menu.background": "#000000",
 		"terminal.background": "#000000",
-		"statusBar.background": "#9D00FF"
+		"statusBar.background": "#9D00FF",
+		// "editorBracketHighlight.foreground1": "#ffff",
+		// "editorBracketHighlight.foreground2": "#ffff",
+		// "editorBracketHighlight.foreground3": "#ffff",
+		// "editorBracketHighlight.foreground4": "#ffff",
+		// "editorBracketHighlight.foreground5": "#ffff",
+		// "editorBracketHighlight.foreground6": "#ffff",
 	},
 	"tokenColors": [
 		{
@@ -98,7 +104,7 @@
 			],
 			"settings": {
 				"foreground": "#5CFF5C",
-				"fontStyle": "bold"
+				// "fontStyle": "bold"
 			}
 		},
 		{
@@ -497,10 +503,12 @@
 		// {
 		// 	"name": "JSON Key - Level 1",
 		// 	"scope": [
-		// 		"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+		// 		"punctuation.definition.dictionary.end.json",
+		// 		"meta.structure.dictionary.json",
+		// 		"source.json",
 		// 	],
 		// 	"settings": {
-		// 		"foreground": "#FFCB6B"
+		// 		"foreground": "#ffff"
 		// 	}
 		// },
 		// {
