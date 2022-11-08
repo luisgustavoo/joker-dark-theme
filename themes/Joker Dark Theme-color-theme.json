@@ -14,7 +14,8 @@
 		"titleBar.activeBackground": "#000000",
 		"menu.background": "#000000",
 		"terminal.background": "#000000",
-		"statusBar.background": "#9D00FF",
+		"statusBar.background": "#000000",
+		"statusBar.debuggingBackground": "#9D00FF"
 		// "editorBracketHighlight.foreground1": "#ffff",
 		// "editorBracketHighlight.foreground2": "#ffff",
 		// "editorBracketHighlight.foreground3": "#ffff",
@@ -284,7 +285,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#D24E01"
+				"foreground": "#9D00FF"
 			}
 		},
 		{
@@ -294,7 +295,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#D24E01"
+				"foreground": "#9D00FF"
 			}
 		},
 		{
@@ -327,7 +328,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#D24E01"
+				"foreground": "#9D00FF"
 			}
 		},
 		{
@@ -340,9 +341,37 @@
 			}
 		},
 		{
+			"name": "variable.other.object.js",
+			"scope": [
+				"variable.other.object.js",
+			],
+			"settings": {
+				"foreground": "#9D00FF"
+			}
+		},
+		
+		{
 			"name": "variable.other.constant.ts",
 			"scope": [
 				"variable.other.constant.ts",
+			],
+			"settings": {
+				"foreground": "#C576F6"
+			}
+		},
+		{
+			"name": "entity.name.type.class.ts",
+			"scope": [
+				"entity.name.type.class.ts",
+			],
+			"settings": {
+				"foreground": "#C576F6"
+			}
+		},
+		{
+			"name": "entity.name.type.interface.ts",
+			"scope": [
+				"entity.name.type.interface.ts",
 			],
 			"settings": {
 				"foreground": "#C576F6"
@@ -366,6 +395,7 @@
 				"foreground": "#ffff"
 			}
 		},
+
 		// {
 		// 	"name": "meta.method.js",
 		// 	"scope": [
