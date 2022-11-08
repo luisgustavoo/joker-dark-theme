@@ -7,6 +7,7 @@
   "repository": {
     "directory": "https://github.com/luisgustavoo/joker-dark-theme"
   },
+  "license": "",
   "engines": {
     "vscode": "^1.73.0"
   },
