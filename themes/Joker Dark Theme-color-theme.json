@@ -280,7 +280,7 @@
 				"fontStyle": "italic",
 				"foreground": "#D24E01"
 			}
-		},	
+		},
 		{
 			"name": "variable.parameter.ts",
 			"scope": [
@@ -342,7 +342,24 @@
 				"foreground": "#C576F6"
 			}
 		},
-	
+		{
+			"name": "variable.other.definition.java",
+			"scope": [
+				"variable.other.definition.java",
+			],
+			"settings": {
+				"foreground": "#ffff"
+			}
+		},
+		{
+			"name": "variable.other.object.property.java",
+			"scope": [
+				"variable.other.object.property.java",
+			],
+			"settings": {
+				"foreground": "#ffff"
+			}
+		},
 		// {
 		// 	"name": "meta.method.js",
 		// 	"scope": [
