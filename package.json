@@ -3,6 +3,7 @@
   "displayName": "Joker Dark Theme",
   "description": "Tema inspirado no Coringa",
   "version": "0.0.1",
+  "icon": "https://i.pinimg.com/564x/ad/89/75/ad8975af8cd031adad21e02ee328d806.jpg",
   "engines": {
     "vscode": "^1.73.0"
   },
