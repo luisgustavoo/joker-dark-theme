@@ -98,7 +98,7 @@
 			],
 			"settings": {
 				"foreground": "#5CFF5C",
-				"fontStyle": "bold"
+				// "fontStyle": "bold"
 			}
 		},
 		{
