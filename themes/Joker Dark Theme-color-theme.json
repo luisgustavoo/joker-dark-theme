@@ -29,10 +29,11 @@
 		"badge.background": "#4FCC26",
 		"list.dropBackground": "#4FCC26",
 		"editorWidget.background": "#141414",
-		"editorSuggestWidget.selectedForeground": "#9D00FF",
+		// "editorSuggestWidget.selectedForeground": "#9D00FF",
 		"editor.findMatchBackground": "#264f78",
 		"editor.findMatchHighlightBackground": "#8b898970",
 		"editor.lineHighlightBackground": "#8b89892a",
+		
 		// "editor.lineHighlightBorder": "#8b89892a",
 		// "editorLineNumber.activeForeground": "#ff0000"
 		// "editorBracketHighlight.foreground1": "#ffff",
