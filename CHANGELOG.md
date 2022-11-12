@@ -11,3 +11,7 @@
 ## 1.0.2
 
 - Fixing `Inherited Class` parameter
+
+##  1.0.3
+
+- Fixing `list.dropBackground` parameter 

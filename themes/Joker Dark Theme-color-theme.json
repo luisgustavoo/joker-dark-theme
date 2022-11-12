@@ -27,7 +27,7 @@
 		"pickerGroup.foreground": "#C576F6",
 		"list.highlightForeground": "#C576F6",
 		"badge.background": "#4FCC26",
-		"list.dropBackground": "#4FCC26",
+		"list.dropBackground": "#8b898970",
 		"editorWidget.background": "#141414",
 		// "editorSuggestWidget.selectedForeground": "#9D00FF",
 		"editor.findMatchBackground": "#264f78",
