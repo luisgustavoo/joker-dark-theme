@@ -7,3 +7,7 @@
 ## 1.0.1
 
 - Fixing `editorSuggestWidget.selectedForeground` parameter
+
+## 1.0.2
+
+- Fixing `Inherited Class` parameter

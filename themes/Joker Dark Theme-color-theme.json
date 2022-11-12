@@ -33,7 +33,6 @@
 		"editor.findMatchBackground": "#264f78",
 		"editor.findMatchHighlightBackground": "#8b898970",
 		"editor.lineHighlightBackground": "#8b89892a",
-		
 		// "editor.lineHighlightBorder": "#8b89892a",
 		// "editorLineNumber.activeForeground": "#ff0000"
 		// "editorBracketHighlight.foreground1": "#ffff",
@@ -172,13 +171,22 @@
 				"string",
 				"constant.other.symbol",
 				"constant.other.key",
-				"entity.other.inherited-class",
+				// "entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
 				"foreground": "#FFFF00"
+			}
+		},
+		{
+			"name": "Inherited Class",
+			"scope": [
+				"entity.other.inherited-class",
+			],
+			"settings": {
+				"foreground": "#C576F6"
 			}
 		},
 		{
