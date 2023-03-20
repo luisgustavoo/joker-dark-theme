@@ -1,17 +1,22 @@
 # Change Log
 
-## 1.0.0
 
-- Initial release
+## 1.0.4
 
-## 1.0.1
+- Fixing `tab.activeBackground` parameter 
 
-- Fixing `editorSuggestWidget.selectedForeground` parameter
+## 1.0.3
+
+- Fixing `list.dropBackground` parameter 
 
 ## 1.0.2
 
 - Fixing `Inherited Class` parameter
 
-##  1.0.3
+## 1.0.1
 
-- Fixing `list.dropBackground` parameter 
+- Fixing `editorSuggestWidget.selectedForeground` parameter
+
+## 1.0.0
+
+- Initial release
