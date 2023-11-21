@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.2.0
+
+- Changing color of `commandCenter.debuggingBackground` parameter 
 
 ## 1.0.4
 
