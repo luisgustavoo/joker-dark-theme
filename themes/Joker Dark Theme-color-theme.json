@@ -11,10 +11,8 @@
 		"sideBar.background": "#1b1b1b",
 		"activityBar.activeBackground": "#9D00FF",
 		"activityBar.background": "#141414",
-		// "tab.activeBackground": "#51087E",
 		"tab.activeBackground": "#9D00FF",
 		"tab.activeBorder": "#ffff",
-
 		"menu.selectionBackground": "#9D00FF",
 		"menubar.selectionBackground": "#9D00FF",
 		"titleBar.activeBackground": "#141414",
@@ -32,18 +30,10 @@
 		"badge.background": "#4FCC26",
 		"list.dropBackground": "#8b898970",
 		"editorWidget.background": "#141414",
-		// "editorSuggestWidget.selectedForeground": "#9D00FF",
 		"editor.findMatchBackground": "#264f78",
 		"editor.findMatchHighlightBackground": "#8b898970",
 		"editor.lineHighlightBackground": "#8b89892a",
-		// "editor.lineHighlightBorder": "#8b89892a",
-		// "editorLineNumber.activeForeground": "#ff0000"
-		// "editorBracketHighlight.foreground1": "#ffff",
-		// "editorBracketHighlight.foreground2": "#ffff",
-		// "editorBracketHighlight.foreground3": "#ffff",
-		// "editorBracketHighlight.foreground4": "#ffff",
-		// "editorBracketHighlight.foreground5": "#ffff",
-		// "editorBracketHighlight.foreground6": "#ffff",
+		"commandCenter.debuggingBackground": "#1b1b1b",
 	},
 	"tokenColors": [
 		{
