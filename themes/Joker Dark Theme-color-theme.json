@@ -33,7 +33,7 @@
 		"editor.findMatchBackground": "#264f78",
 		"editor.findMatchHighlightBackground": "#8b898970",
 		"editor.lineHighlightBackground": "#8b89892a",
-		"commandCenter.debuggingBackground": "#1b1b1b",
+		"commandCenter.debuggingBackground": "#001B1B1B",
 	},
 	"tokenColors": [
 		{
